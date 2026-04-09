@@ -1,3 +1,3 @@
 Hey! I'm Robert, a computer science student at the University of Guelph
 
-Slowly but surely, learning how to code 🧠
+One day at a time, learning more and more about programming, cybersecurity, and anything computer science 🧠
